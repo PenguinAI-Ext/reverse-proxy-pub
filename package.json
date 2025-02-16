@@ -1,0 +1,40 @@
+{
+  "name": "pai-reverse-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenguinAI-Ext/reverse-proxy.git"
+  },
+  "keywords": [
+    "reverse-proxy",
+    "ai",
+    "ai-models",
+    "free-ai"
+  ],
+  "author": "MubiLop",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PenguinAI-Ext/reverse-proxy/issues"
+  },
+  "homepage": "https://github.com/PenguinAI-Ext/reverse-proxy#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ioredis": "^5.5.0",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7",
+    "sharp": "^0.33.5",
+    "uuid": "^11.0.5"
+  }
+}
